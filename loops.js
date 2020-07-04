@@ -42,9 +42,13 @@ function whileLoop(number){
   }
 }
 
+function incrementVariable() { // says copy and use this
+  i = i + 1;
+  return i;
+}
+
 function doWhileLoop(integer){
   do {
-    console.log("CONSOLE.LOG IS HERE");
     console.log("I run once regardless.");
   } while (incrementVariable() < integer);
 }
