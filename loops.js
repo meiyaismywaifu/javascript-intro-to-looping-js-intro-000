@@ -42,8 +42,8 @@ function whileLoop(number){
   }
 }
 
-var i = 0;
-function incrementVariable() { // says copy and use this
+var i = 0; // says copy and use this
+function incrementVariable() { // why would i ever separate the timer from the function?
   i = i + 1;
   return i;
 }
