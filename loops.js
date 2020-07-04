@@ -49,6 +49,7 @@ function incrementVariable() { // why would i ever separate the timer from the f
 }
 
 function doWhileLoop(integer){
+  i = 0;
   do {
     console.log("I run once regardless.");
   } while (incrementVariable() < integer);
