@@ -36,6 +36,9 @@ function whileLoop(number){
   while (number > -1){
     console.log(number);
     number--;
+    if (number === 0){
+      console.log("done");
+    }
   }
 }
 
