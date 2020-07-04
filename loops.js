@@ -42,4 +42,8 @@ function whileLoop(number){
   }
 }
 
-function doWhileLoop(){}
+function doWhileLoop(integer){
+  do{
+    
+  } while ();
+}
