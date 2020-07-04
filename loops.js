@@ -37,7 +37,7 @@ function whileLoop(number){
     console.log(number);
     number--;
     if (number === 0){
-      console.log("done");
+      return("done");
     }
   }
 }
