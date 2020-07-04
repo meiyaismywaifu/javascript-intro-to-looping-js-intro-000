@@ -30,6 +30,8 @@ function forLoop(array){
   // apparently this one needed a return. who knew?
 }
 
+// why do these labs save sometimes interim and sometimes not
+
 function whileLoop(number){
   while (number > -1){
     console.log(number);
