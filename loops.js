@@ -35,7 +35,7 @@ function forLoop(array){
 function whileLoop(number){
   while (number > -1){
     console.log(number);
-    number --
+    number--;
   }
 }
 
