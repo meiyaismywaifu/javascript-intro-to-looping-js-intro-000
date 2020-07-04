@@ -43,7 +43,7 @@ function whileLoop(number){
 }
 
 function doWhileLoop(integer){
-  do {
+  /*do {
     console.log("I run once regardless.")''
-  } while (incrementVariable() < integer);
+  } while (incrementVariable() < integer);*/
 }
