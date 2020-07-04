@@ -42,6 +42,7 @@ function whileLoop(number){
   }
 }
 
+var i = 0;
 function incrementVariable() { // says copy and use this
   i = i + 1;
   return i;
