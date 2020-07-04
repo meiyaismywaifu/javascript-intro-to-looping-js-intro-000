@@ -43,7 +43,7 @@ function whileLoop(number){
 }
 
 function doWhileLoop(integer){
-  do{
+  do {
 
   } while ();
 }
